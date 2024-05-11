@@ -24,6 +24,7 @@ Requirements:
 Python 3.x
 Jupyter Notebook
 Required Python libraries (pandas, numpy, scikit-learn, matplotlib, seaborn,)
+
 Usage:
 
 Clone the repository to your local machine.
